@@ -1,10 +1,10 @@
 # Rental Recommendation Web Service
 
 Deliverables:
-1. Colab Notebook
-2. Project Report
-3. Video Presentation
-4. PowerPoint Presentation
+1. Colab Notebook - https://github.com/Sameersah/rental-recommendation-system/blob/main/1-CMPE_255_Final_Project_Model_Creation_for_Rental_Recommendation_System_.ipynb
+2. Project Report - https://github.com/Sameersah/rental-recommendation-system/blob/main/2-Project-Report.pdf 
+3. Video Presentation - https://youtu.be/2Q4kBCoe90k?si=XZRKM7FxNoFB_bnu
+4. PowerPoint Presentation - https://docs.google.com/presentation/d/1lmk-l3Dn7qdMrvp2dING_96akYaaBxD8wnHNokJZN2Y/edit?usp=sharing
 
 ## Introduction
 Finding a rental property that aligns with specific preferences can be a time-consuming task for users, given the vast number of listings available online. While existing platforms like Zillow and Realtor.com offer basic filters, they often fall short when it comes to addressing nuanced user needs such as proximity to specific locations, quiet neighborhoods, or low-crime areas. This gap inspired us to create a more effective solution: a rental recommendation web service powered by a robust clustering model.
